@@ -2,7 +2,7 @@
 - 👀 I’m interested in software and website development 
 - 🌱 I’m currently learning website development 
 - 💞️ I’m looking to collaborate on projects related topics 
-- 📫 How to reach me email clickcreeb@gmail.com
+- 📫 How to reach me email abonyo047@gmail.com
 
 <!---
 obi764/obi764 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
